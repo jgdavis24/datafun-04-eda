@@ -1,0 +1,59 @@
+# ============================================================
+# CITATION.cff (How to cite this project)
+# ============================================================
+
+# REQ.UNIVERSAL: Professional open projects SHOULD include this file.
+# WHY: Support correct citation and attribution.
+# ALT: Internal or private repositories may omit citation metadata.
+# CUSTOM: Update author, repository, license, and keyword fields as needed.
+# USAGE: See https://citation-file-format.github.io/ for details.
+
+cff-version: "1.2.0"
+message: "If using this work, please cite it as described in this file."
+type: software
+
+title: "datafun-04-eda"
+version: "1.1.0"
+date-released: "2026-09-27"
+
+authors:
+  - family-names: Davis
+    given-names: Josiah
+    affiliation: "Northwest Missouri State University, Maryville, MO, USA"
+
+repository-code: "https://github.com/jgdavis24/datafun-04-eda"
+url: "https://github.com/jgdavis24/datafun-04-eda"
+license: MIT
+
+abstract: >
+  Exploratory data analytics project focused on the use of notebooks
+  for iterative analysis, inspection, and documentation.
+  The project emphasizes working with tabular data,
+  combining code, results, and narrative text,
+  and applying reproducible analytics practices
+  within a version-controlled project workflow.
+
+keywords:
+  - data-analytics
+  - analytics-foundations
+  - data-exploration
+  - data-inspection
+  - pandas
+  - logging
+  - professional-python
+  - src-layout
+  - reproducible-workflows
+  - software-quality
+  - ci-cd
+  - github-actions
+  - python
+  - git
+  - github
+  - open-source
+  - uv
+  - ruff
+  - pre-commit
+  - ty
+  - hatchling
+  - zensical
+  - data-analytics-education
